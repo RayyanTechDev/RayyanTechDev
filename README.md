@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some companies in the future.
 - 📫 How to reach me you cannot reach me at the moment at all.
 - 😄 Pronouns: He and him.
-- ⚡ Fun fact: I love computers.
+- ⚡ Fun fact: I love Transformers!
 
 <!---
 RayyanTechDev/RayyanTechDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
