@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RayyanTechDev.
-- 👀 I’m interested in Computers.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on some companies in the future.
-- 📫 How to reach me you cannot reach me at the moment at all.
-- 😄 Pronouns: He and him.
-- ⚡ Fun fact: I love Transformers!
+Hi! I'm a student passionate about web development and aspiring to become a tech entrepreneur. I love coding and building things, and I'm always eager to learn more. Outside of tech, I'm a huge fan of Transformers, Sonic, and Star Wars. I also enjoy cycling in my free time.
+
+Check out my books website: pw-official.tiiny.site
 
 <!---
 RayyanTechDev/RayyanTechDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
